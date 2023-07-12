@@ -27,6 +27,11 @@
 	<img src="https://github-readme-stats-azure-seven-74.vercel.app/api/top-langs/?username=lisongkun&layout=compact" width="450" />
 </p>
 
+<p align="center">
+	<img src="https://github-readme-stats-azure-seven-74.vercel.app/?username=lisongkun&theme=flat" width="450" />	
+</p>
+
+
 <br>
 
 <p align="center">
