@@ -39,7 +39,10 @@
 <img src="https://img.shields.io/badge/license-Apache-blue"/>
 <img src="https://visitor-badge.laobi.icu/badge?page_id=lisongkun.lisongkun" />
 <br />
+<a href="http://donate.lisok.cn/#">
+	
 <img src="https://github.com/lisongkun/lisongkun/blob/9feb1221c661eecb5e8b7cdd9ec2c610e014c19c/68747470733a2f2f63646e2e6275796d6561636f666665652e636f6d2f627574746f6e732f76322f64656661756c742d6f72616e67652e706e67.png" width="210" height="50" />
+</a>
 </p>
 
 
